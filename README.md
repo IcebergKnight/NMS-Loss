@@ -6,10 +6,10 @@
 
 NMS-Loss test on Citypersons和Caltech：
 
-|	dataset		| Config   	| MR  		| |
-|------------		|:--------:	|:--------:	|:--------|
-|Citypersons	| cityperons.py | 10.08% ||
-|Caltech	| caltech.py | 5.92% |ori caltech|
+|	dataset		| Config   	| MR  		|
+|------------		|:--------:	|:--------:	|
+|Citypersons	| cityperons.py | 10.08% |
+|Caltech(Ori)	| caltech.py | 5.92% |
 
 ## Installation
 Prerequisites:
