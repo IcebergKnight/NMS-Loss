@@ -55,6 +55,8 @@ pip install -v -e .  # or "python setup.py develop"
 ```
 ## Test
 
+Dowdload weights from https://drive.google.com/drive/folders/1MwdnknqX6I3lNIbMVJQOyVxGK1lw-dEX?usp=sharing.
+
 Citypersons:
 ```
 ./tools/dist_test.sh configs/cityperons.py work_dirs/citypersons.pth 8 --out results/citypersons.pkl --eval bbox
